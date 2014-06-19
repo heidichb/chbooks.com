@@ -18,8 +18,7 @@ We collect information when you browse the Site.
 
 * We also use basic Google Analytics. We have chosen not to use their more robust Universal tracking system. [The Google Analytics security and privacy principles are available](https://support.google.com/analytics/answer/6004245) for your review. [The Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout?hl=en-GB) allows you to opt-out.
 
-* We use cookies
-
+* We use cookies.
 
 We collect information when you communicate with us directly.
 
@@ -32,6 +31,6 @@ We collect information when you communicate with us directly.
 
 ##Changes
 
-This Privacy Policy may be revised at anytime, without warning. If you have any questions or feedback about this form, contact us at mail@chbooks.com
+This Privacy Policy may be revised at anytime, without warning. If you have any questions or feedback about this form, contact us at mail@chbooks.com.
 
 
